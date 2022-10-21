@@ -1,18 +1,18 @@
 module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Running Page',
+    siteTitle: 'Neil Zhang 的跑步生涯',
     siteUrl: 'https://yihong.run',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-    description: 'Personal site and blog',
+    logo: 'src/images/caigou.jpg',
+    description: 'Neil Zhang 的跑步生涯',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://yihong.run/running',
+        name: '哔哩哔哩',
+        url: 'https://space.bilibili.com/388999',
       },
       {
         name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        url: 'https://github.com/twentyStrokes/running_page/blob/master/README-CN.md',
       },
     ],
   },
